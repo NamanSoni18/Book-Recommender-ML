@@ -3,6 +3,7 @@ numpy
 scikit-learn
 Flask
 Gunicorn
+pip==24.2
 
 # local packages installation
 -e .
