@@ -1,5 +1,4 @@
 "use client";
-import { useState } from "react";
 
 interface GridItemProps {
   bookTitle: string;
@@ -19,7 +18,7 @@ const GridItem: React.FC<GridItemProps> = ({ bookTitle, posterUrl }) => {
       <div className="relative mb-4 pb-[100%]">
         {/* Adjust padding-bottom for portrait aspect ratio */}
         <img
-          src={posterUrl}
+          src={posterUrl} 
           alt={`Poster of ${bookTitle}`}
           className="absolute inset-0 w-full h-full object-cover rounded-t-lg"
         />

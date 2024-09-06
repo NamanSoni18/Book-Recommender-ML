@@ -1,5 +1,4 @@
 // import { div } from "framer-motion/client";
-import Image from "next/image";
 import { Navbar } from "@/components/navbar";
 import AutosuggestInput from "@/components/autoSuggestInput";
 
