@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: Book Recommender System
+Home-page: https://github.com/NamanSoni18/Book-Recommender
+Author: NamanSoni18
+Author-email: sknaman763@gmail.com
+Requires-Python: >=3.12.4
+Description-Content-Type: text/markdown
+Requires-Dist: streamlit
+Requires-Dist: numpy
+
+Book recommender is an ML application which uses complex Algoritm (K- Nearest Neighbors) to extract the data
