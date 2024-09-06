@@ -5,7 +5,7 @@ Summary: Book Recommender System
 Home-page: https://github.com/NamanSoni18/Book-Recommender
 Author: NamanSoni18
 Author-email: sknaman763@gmail.com
-Requires-Python: >=3.12.4
+Requires-Python: >=3.12.0
 Description-Content-Type: text/markdown
 Requires-Dist: streamlit
 Requires-Dist: numpy

@@ -18,6 +18,6 @@ setup(
   url = f"https://github.com/{AUTHOR_NAME}/{REPO_NAME}",
   author_email = "sknaman763@gmail.com",
   packages = [SRC_REPO],
-  python_requires = ">=3.12.4",
+  python_requires = ">=3.12.0",
   install_requires = LIST_OF_REQUIREMENTS
 )
